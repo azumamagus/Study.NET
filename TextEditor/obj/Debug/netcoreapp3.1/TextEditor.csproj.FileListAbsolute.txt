@@ -1,0 +1,13 @@
+E:\DeveloperTest\GitHub\Study.Net\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.exe
+E:\DeveloperTest\GitHub\Study.Net\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.deps.json
+E:\DeveloperTest\GitHub\Study.Net\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.runtimeconfig.json
+E:\DeveloperTest\GitHub\Study.Net\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.runtimeconfig.dev.json
+E:\DeveloperTest\GitHub\Study.Net\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.dll
+E:\DeveloperTest\GitHub\Study.Net\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.pdb
+E:\DeveloperTest\GitHub\Study.Net\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.AssemblyInfoInputs.cache
+E:\DeveloperTest\GitHub\Study.Net\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.AssemblyInfo.cs
+E:\DeveloperTest\GitHub\Study.Net\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.csproj.CoreCompileInputs.cache
+E:\DeveloperTest\GitHub\Study.Net\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.dll
+E:\DeveloperTest\GitHub\Study.Net\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.pdb
+E:\DeveloperTest\GitHub\Study.Net\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.genruntimeconfig.cache
+E:\DeveloperTest\GitHub\Study.Net\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.csprojAssemblyReference.cache

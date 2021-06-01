@@ -1,0 +1,4 @@
+E:\DeveloperTest\GitHub\Study.Net\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.csprojAssemblyReference.cache
+E:\DeveloperTest\GitHub\Study.Net\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.AssemblyInfoInputs.cache
+E:\DeveloperTest\GitHub\Study.Net\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.AssemblyInfo.cs
+E:\DeveloperTest\GitHub\Study.Net\Stopwatch\obj\Debug\netcoreapp3.1\Stopwatch.csproj.CoreCompileInputs.cache

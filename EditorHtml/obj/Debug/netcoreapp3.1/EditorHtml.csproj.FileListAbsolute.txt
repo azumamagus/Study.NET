@@ -1,0 +1,13 @@
+E:\DeveloperTest\GitHub\Study.Net\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.exe
+E:\DeveloperTest\GitHub\Study.Net\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.deps.json
+E:\DeveloperTest\GitHub\Study.Net\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.runtimeconfig.json
+E:\DeveloperTest\GitHub\Study.Net\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.runtimeconfig.dev.json
+E:\DeveloperTest\GitHub\Study.Net\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.dll
+E:\DeveloperTest\GitHub\Study.Net\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.pdb
+E:\DeveloperTest\GitHub\Study.Net\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.csprojAssemblyReference.cache
+E:\DeveloperTest\GitHub\Study.Net\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.AssemblyInfoInputs.cache
+E:\DeveloperTest\GitHub\Study.Net\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.AssemblyInfo.cs
+E:\DeveloperTest\GitHub\Study.Net\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.csproj.CoreCompileInputs.cache
+E:\DeveloperTest\GitHub\Study.Net\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.dll
+E:\DeveloperTest\GitHub\Study.Net\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.pdb
+E:\DeveloperTest\GitHub\Study.Net\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.genruntimeconfig.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Study.Net", "Study.Net\Study.Net.csproj", "{D3A04522-4FA1-40D2-BDBC-6E69FE17C3A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stopwatch", "Stopwatch\Stopwatch.csproj", "{07F7AC00-E099-4E09-9236-4125EB4C080A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3A04522-4FA1-40D2-BDBC-6E69FE17C3A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3A04522-4FA1-40D2-BDBC-6E69FE17C3A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3A04522-4FA1-40D2-BDBC-6E69FE17C3A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3A04522-4FA1-40D2-BDBC-6E69FE17C3A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07F7AC00-E099-4E09-9236-4125EB4C080A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07F7AC00-E099-4E09-9236-4125EB4C080A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07F7AC00-E099-4E09-9236-4125EB4C080A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07F7AC00-E099-4E09-9236-4125EB4C080A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {827DCCE4-6BD7-45B6-98FA-9F132C18325D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+E:\DeveloperTest\GitHub\Study.Net\ExerciciosCsharp\bin\Debug\netcoreapp3.1\ExerciciosCsharp.exe
+E:\DeveloperTest\GitHub\Study.Net\ExerciciosCsharp\bin\Debug\netcoreapp3.1\ExerciciosCsharp.deps.json
+E:\DeveloperTest\GitHub\Study.Net\ExerciciosCsharp\bin\Debug\netcoreapp3.1\ExerciciosCsharp.runtimeconfig.json
+E:\DeveloperTest\GitHub\Study.Net\ExerciciosCsharp\bin\Debug\netcoreapp3.1\ExerciciosCsharp.runtimeconfig.dev.json
+E:\DeveloperTest\GitHub\Study.Net\ExerciciosCsharp\bin\Debug\netcoreapp3.1\ExerciciosCsharp.dll
+E:\DeveloperTest\GitHub\Study.Net\ExerciciosCsharp\bin\Debug\netcoreapp3.1\ExerciciosCsharp.pdb
+E:\DeveloperTest\GitHub\Study.Net\ExerciciosCsharp\obj\Debug\netcoreapp3.1\ExerciciosCsharp.csprojAssemblyReference.cache
+E:\DeveloperTest\GitHub\Study.Net\ExerciciosCsharp\obj\Debug\netcoreapp3.1\ExerciciosCsharp.AssemblyInfoInputs.cache
+E:\DeveloperTest\GitHub\Study.Net\ExerciciosCsharp\obj\Debug\netcoreapp3.1\ExerciciosCsharp.AssemblyInfo.cs
+E:\DeveloperTest\GitHub\Study.Net\ExerciciosCsharp\obj\Debug\netcoreapp3.1\ExerciciosCsharp.csproj.CoreCompileInputs.cache
+E:\DeveloperTest\GitHub\Study.Net\ExerciciosCsharp\obj\Debug\netcoreapp3.1\ExerciciosCsharp.dll
+E:\DeveloperTest\GitHub\Study.Net\ExerciciosCsharp\obj\Debug\netcoreapp3.1\ExerciciosCsharp.pdb
+E:\DeveloperTest\GitHub\Study.Net\ExerciciosCsharp\obj\Debug\netcoreapp3.1\ExerciciosCsharp.genruntimeconfig.cache
