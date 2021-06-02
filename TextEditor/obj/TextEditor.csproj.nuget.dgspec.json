@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DeveloperTest\\GitHub\\Study.Net\\TextEditor\\TextEditor.csproj": {}
+    "E:\\DeveloperTest\\GitHub\\Study.NET\\TextEditor\\TextEditor.csproj": {}
   },
   "projects": {
-    "E:\\DeveloperTest\\GitHub\\Study.Net\\TextEditor\\TextEditor.csproj": {
+    "E:\\DeveloperTest\\GitHub\\Study.NET\\TextEditor\\TextEditor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DeveloperTest\\GitHub\\Study.Net\\TextEditor\\TextEditor.csproj",
+        "projectUniqueName": "E:\\DeveloperTest\\GitHub\\Study.NET\\TextEditor\\TextEditor.csproj",
         "projectName": "TextEditor",
-        "projectPath": "E:\\DeveloperTest\\GitHub\\Study.Net\\TextEditor\\TextEditor.csproj",
+        "projectPath": "E:\\DeveloperTest\\GitHub\\Study.NET\\TextEditor\\TextEditor.csproj",
         "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-        "outputPath": "E:\\DeveloperTest\\GitHub\\Study.Net\\TextEditor\\obj\\",
+        "outputPath": "E:\\DeveloperTest\\GitHub\\Study.NET\\TextEditor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

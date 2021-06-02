@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DeveloperTest\\GitHub\\Study.Net\\Stopwatch\\Stopwatch.csproj": {}
+    "E:\\DeveloperTest\\GitHub\\Study.NET\\Stopwatch\\Stopwatch.csproj": {}
   },
   "projects": {
-    "E:\\DeveloperTest\\GitHub\\Study.Net\\Stopwatch\\Stopwatch.csproj": {
+    "E:\\DeveloperTest\\GitHub\\Study.NET\\Stopwatch\\Stopwatch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DeveloperTest\\GitHub\\Study.Net\\Stopwatch\\Stopwatch.csproj",
+        "projectUniqueName": "E:\\DeveloperTest\\GitHub\\Study.NET\\Stopwatch\\Stopwatch.csproj",
         "projectName": "Stopwatch",
-        "projectPath": "E:\\DeveloperTest\\GitHub\\Study.Net\\Stopwatch\\Stopwatch.csproj",
+        "projectPath": "E:\\DeveloperTest\\GitHub\\Study.NET\\Stopwatch\\Stopwatch.csproj",
         "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-        "outputPath": "E:\\DeveloperTest\\GitHub\\Study.Net\\Stopwatch\\obj\\",
+        "outputPath": "E:\\DeveloperTest\\GitHub\\Study.NET\\Stopwatch\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

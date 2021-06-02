@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DeveloperTest\\GitHub\\Study.NET\\EditorHtml\\EditorHtml.csproj": {}
+    "E:\\DeveloperTest\\GitHub\\Study.NET\\ProblemaComOOP\\ProblemaComOOP.csproj": {}
   },
   "projects": {
-    "E:\\DeveloperTest\\GitHub\\Study.NET\\EditorHtml\\EditorHtml.csproj": {
+    "E:\\DeveloperTest\\GitHub\\Study.NET\\ProblemaComOOP\\ProblemaComOOP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DeveloperTest\\GitHub\\Study.NET\\EditorHtml\\EditorHtml.csproj",
-        "projectName": "EditorHtml",
-        "projectPath": "E:\\DeveloperTest\\GitHub\\Study.NET\\EditorHtml\\EditorHtml.csproj",
+        "projectUniqueName": "E:\\DeveloperTest\\GitHub\\Study.NET\\ProblemaComOOP\\ProblemaComOOP.csproj",
+        "projectName": "ProblemaComOOP",
+        "projectPath": "E:\\DeveloperTest\\GitHub\\Study.NET\\ProblemaComOOP\\ProblemaComOOP.csproj",
         "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-        "outputPath": "E:\\DeveloperTest\\GitHub\\Study.NET\\EditorHtml\\obj\\",
+        "outputPath": "E:\\DeveloperTest\\GitHub\\Study.NET\\ProblemaComOOP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

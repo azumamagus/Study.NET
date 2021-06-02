@@ -1,0 +1,12 @@
+E:\DeveloperTest\GitHub\Study.NET\ProblemaSemOOP\bin\Debug\netcoreapp3.1\ProblemaSemOOP.exe
+E:\DeveloperTest\GitHub\Study.NET\ProblemaSemOOP\bin\Debug\netcoreapp3.1\ProblemaSemOOP.deps.json
+E:\DeveloperTest\GitHub\Study.NET\ProblemaSemOOP\bin\Debug\netcoreapp3.1\ProblemaSemOOP.runtimeconfig.json
+E:\DeveloperTest\GitHub\Study.NET\ProblemaSemOOP\bin\Debug\netcoreapp3.1\ProblemaSemOOP.runtimeconfig.dev.json
+E:\DeveloperTest\GitHub\Study.NET\ProblemaSemOOP\bin\Debug\netcoreapp3.1\ProblemaSemOOP.dll
+E:\DeveloperTest\GitHub\Study.NET\ProblemaSemOOP\bin\Debug\netcoreapp3.1\ProblemaSemOOP.pdb
+E:\DeveloperTest\GitHub\Study.NET\ProblemaSemOOP\obj\Debug\netcoreapp3.1\ProblemaSemOOP.AssemblyInfoInputs.cache
+E:\DeveloperTest\GitHub\Study.NET\ProblemaSemOOP\obj\Debug\netcoreapp3.1\ProblemaSemOOP.AssemblyInfo.cs
+E:\DeveloperTest\GitHub\Study.NET\ProblemaSemOOP\obj\Debug\netcoreapp3.1\ProblemaSemOOP.csproj.CoreCompileInputs.cache
+E:\DeveloperTest\GitHub\Study.NET\ProblemaSemOOP\obj\Debug\netcoreapp3.1\ProblemaSemOOP.dll
+E:\DeveloperTest\GitHub\Study.NET\ProblemaSemOOP\obj\Debug\netcoreapp3.1\ProblemaSemOOP.pdb
+E:\DeveloperTest\GitHub\Study.NET\ProblemaSemOOP\obj\Debug\netcoreapp3.1\ProblemaSemOOP.genruntimeconfig.cache

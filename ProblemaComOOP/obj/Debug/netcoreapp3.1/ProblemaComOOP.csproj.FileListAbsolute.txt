@@ -1,0 +1,12 @@
+E:\DeveloperTest\GitHub\Study.NET\ProblemaComOOP\bin\Debug\netcoreapp3.1\ProblemaComOOP.exe
+E:\DeveloperTest\GitHub\Study.NET\ProblemaComOOP\bin\Debug\netcoreapp3.1\ProblemaComOOP.deps.json
+E:\DeveloperTest\GitHub\Study.NET\ProblemaComOOP\bin\Debug\netcoreapp3.1\ProblemaComOOP.runtimeconfig.json
+E:\DeveloperTest\GitHub\Study.NET\ProblemaComOOP\bin\Debug\netcoreapp3.1\ProblemaComOOP.runtimeconfig.dev.json
+E:\DeveloperTest\GitHub\Study.NET\ProblemaComOOP\bin\Debug\netcoreapp3.1\ProblemaComOOP.dll
+E:\DeveloperTest\GitHub\Study.NET\ProblemaComOOP\bin\Debug\netcoreapp3.1\ProblemaComOOP.pdb
+E:\DeveloperTest\GitHub\Study.NET\ProblemaComOOP\obj\Debug\netcoreapp3.1\ProblemaComOOP.AssemblyInfoInputs.cache
+E:\DeveloperTest\GitHub\Study.NET\ProblemaComOOP\obj\Debug\netcoreapp3.1\ProblemaComOOP.AssemblyInfo.cs
+E:\DeveloperTest\GitHub\Study.NET\ProblemaComOOP\obj\Debug\netcoreapp3.1\ProblemaComOOP.csproj.CoreCompileInputs.cache
+E:\DeveloperTest\GitHub\Study.NET\ProblemaComOOP\obj\Debug\netcoreapp3.1\ProblemaComOOP.dll
+E:\DeveloperTest\GitHub\Study.NET\ProblemaComOOP\obj\Debug\netcoreapp3.1\ProblemaComOOP.pdb
+E:\DeveloperTest\GitHub\Study.NET\ProblemaComOOP\obj\Debug\netcoreapp3.1\ProblemaComOOP.genruntimeconfig.cache

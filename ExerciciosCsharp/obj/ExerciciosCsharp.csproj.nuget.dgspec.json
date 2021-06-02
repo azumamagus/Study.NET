@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DeveloperTest\\GitHub\\Study.Net\\ExerciciosCsharp\\ExerciciosCsharp.csproj": {}
+    "E:\\DeveloperTest\\GitHub\\Study.NET\\ExerciciosCsharp\\ExerciciosCsharp.csproj": {}
   },
   "projects": {
-    "E:\\DeveloperTest\\GitHub\\Study.Net\\ExerciciosCsharp\\ExerciciosCsharp.csproj": {
+    "E:\\DeveloperTest\\GitHub\\Study.NET\\ExerciciosCsharp\\ExerciciosCsharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DeveloperTest\\GitHub\\Study.Net\\ExerciciosCsharp\\ExerciciosCsharp.csproj",
+        "projectUniqueName": "E:\\DeveloperTest\\GitHub\\Study.NET\\ExerciciosCsharp\\ExerciciosCsharp.csproj",
         "projectName": "ExerciciosCsharp",
-        "projectPath": "E:\\DeveloperTest\\GitHub\\Study.Net\\ExerciciosCsharp\\ExerciciosCsharp.csproj",
+        "projectPath": "E:\\DeveloperTest\\GitHub\\Study.NET\\ExerciciosCsharp\\ExerciciosCsharp.csproj",
         "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-        "outputPath": "E:\\DeveloperTest\\GitHub\\Study.Net\\ExerciciosCsharp\\obj\\",
+        "outputPath": "E:\\DeveloperTest\\GitHub\\Study.NET\\ExerciciosCsharp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
