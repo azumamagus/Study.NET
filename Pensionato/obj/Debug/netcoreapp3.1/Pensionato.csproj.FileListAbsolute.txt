@@ -1,0 +1,13 @@
+E:\DeveloperTest\GitHub\Study.NET\Pensionato\bin\Debug\netcoreapp3.1\Pensionato.exe
+E:\DeveloperTest\GitHub\Study.NET\Pensionato\bin\Debug\netcoreapp3.1\Pensionato.deps.json
+E:\DeveloperTest\GitHub\Study.NET\Pensionato\bin\Debug\netcoreapp3.1\Pensionato.runtimeconfig.json
+E:\DeveloperTest\GitHub\Study.NET\Pensionato\bin\Debug\netcoreapp3.1\Pensionato.runtimeconfig.dev.json
+E:\DeveloperTest\GitHub\Study.NET\Pensionato\bin\Debug\netcoreapp3.1\Pensionato.dll
+E:\DeveloperTest\GitHub\Study.NET\Pensionato\bin\Debug\netcoreapp3.1\Pensionato.pdb
+E:\DeveloperTest\GitHub\Study.NET\Pensionato\obj\Debug\netcoreapp3.1\Pensionato.csprojAssemblyReference.cache
+E:\DeveloperTest\GitHub\Study.NET\Pensionato\obj\Debug\netcoreapp3.1\Pensionato.AssemblyInfoInputs.cache
+E:\DeveloperTest\GitHub\Study.NET\Pensionato\obj\Debug\netcoreapp3.1\Pensionato.AssemblyInfo.cs
+E:\DeveloperTest\GitHub\Study.NET\Pensionato\obj\Debug\netcoreapp3.1\Pensionato.csproj.CoreCompileInputs.cache
+E:\DeveloperTest\GitHub\Study.NET\Pensionato\obj\Debug\netcoreapp3.1\Pensionato.dll
+E:\DeveloperTest\GitHub\Study.NET\Pensionato\obj\Debug\netcoreapp3.1\Pensionato.pdb
+E:\DeveloperTest\GitHub\Study.NET\Pensionato\obj\Debug\netcoreapp3.1\Pensionato.genruntimeconfig.cache
