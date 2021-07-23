@@ -10,3 +10,4 @@ E:\DeveloperTest\GitHub\Study.NET\Worker\obj\Debug\netcoreapp3.1\Composicao.cspr
 E:\DeveloperTest\GitHub\Study.NET\Worker\obj\Debug\netcoreapp3.1\Composicao.dll
 E:\DeveloperTest\GitHub\Study.NET\Worker\obj\Debug\netcoreapp3.1\Composicao.pdb
 E:\DeveloperTest\GitHub\Study.NET\Worker\obj\Debug\netcoreapp3.1\Composicao.genruntimeconfig.cache
+E:\DeveloperTest\GitHub\Study.NET\Worker\obj\Debug\netcoreapp3.1\Composicao.csprojAssemblyReference.cache

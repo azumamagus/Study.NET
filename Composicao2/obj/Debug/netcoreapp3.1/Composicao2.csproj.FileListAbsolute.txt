@@ -1,0 +1,13 @@
+E:\DeveloperTest\GitHub\Study.NET\Composicao2\bin\Debug\netcoreapp3.1\Composicao2.exe
+E:\DeveloperTest\GitHub\Study.NET\Composicao2\bin\Debug\netcoreapp3.1\Composicao2.deps.json
+E:\DeveloperTest\GitHub\Study.NET\Composicao2\bin\Debug\netcoreapp3.1\Composicao2.runtimeconfig.json
+E:\DeveloperTest\GitHub\Study.NET\Composicao2\bin\Debug\netcoreapp3.1\Composicao2.runtimeconfig.dev.json
+E:\DeveloperTest\GitHub\Study.NET\Composicao2\bin\Debug\netcoreapp3.1\Composicao2.dll
+E:\DeveloperTest\GitHub\Study.NET\Composicao2\bin\Debug\netcoreapp3.1\Composicao2.pdb
+E:\DeveloperTest\GitHub\Study.NET\Composicao2\obj\Debug\netcoreapp3.1\Composicao2.csprojAssemblyReference.cache
+E:\DeveloperTest\GitHub\Study.NET\Composicao2\obj\Debug\netcoreapp3.1\Composicao2.AssemblyInfoInputs.cache
+E:\DeveloperTest\GitHub\Study.NET\Composicao2\obj\Debug\netcoreapp3.1\Composicao2.AssemblyInfo.cs
+E:\DeveloperTest\GitHub\Study.NET\Composicao2\obj\Debug\netcoreapp3.1\Composicao2.csproj.CoreCompileInputs.cache
+E:\DeveloperTest\GitHub\Study.NET\Composicao2\obj\Debug\netcoreapp3.1\Composicao2.dll
+E:\DeveloperTest\GitHub\Study.NET\Composicao2\obj\Debug\netcoreapp3.1\Composicao2.pdb
+E:\DeveloperTest\GitHub\Study.NET\Composicao2\obj\Debug\netcoreapp3.1\Composicao2.genruntimeconfig.cache
