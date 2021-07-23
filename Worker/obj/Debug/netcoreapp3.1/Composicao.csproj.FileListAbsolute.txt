@@ -1,0 +1,12 @@
+E:\DeveloperTest\GitHub\Study.NET\Worker\bin\Debug\netcoreapp3.1\Composicao.exe
+E:\DeveloperTest\GitHub\Study.NET\Worker\bin\Debug\netcoreapp3.1\Composicao.deps.json
+E:\DeveloperTest\GitHub\Study.NET\Worker\bin\Debug\netcoreapp3.1\Composicao.runtimeconfig.json
+E:\DeveloperTest\GitHub\Study.NET\Worker\bin\Debug\netcoreapp3.1\Composicao.runtimeconfig.dev.json
+E:\DeveloperTest\GitHub\Study.NET\Worker\bin\Debug\netcoreapp3.1\Composicao.dll
+E:\DeveloperTest\GitHub\Study.NET\Worker\bin\Debug\netcoreapp3.1\Composicao.pdb
+E:\DeveloperTest\GitHub\Study.NET\Worker\obj\Debug\netcoreapp3.1\Composicao.AssemblyInfoInputs.cache
+E:\DeveloperTest\GitHub\Study.NET\Worker\obj\Debug\netcoreapp3.1\Composicao.AssemblyInfo.cs
+E:\DeveloperTest\GitHub\Study.NET\Worker\obj\Debug\netcoreapp3.1\Composicao.csproj.CoreCompileInputs.cache
+E:\DeveloperTest\GitHub\Study.NET\Worker\obj\Debug\netcoreapp3.1\Composicao.dll
+E:\DeveloperTest\GitHub\Study.NET\Worker\obj\Debug\netcoreapp3.1\Composicao.pdb
+E:\DeveloperTest\GitHub\Study.NET\Worker\obj\Debug\netcoreapp3.1\Composicao.genruntimeconfig.cache

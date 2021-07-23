@@ -1,0 +1,4 @@
+E:\DeveloperTest\GitHub\Study.NET\Worker\obj\Debug\netcoreapp3.1\Worker.csprojAssemblyReference.cache
+E:\DeveloperTest\GitHub\Study.NET\Worker\obj\Debug\netcoreapp3.1\Worker.AssemblyInfoInputs.cache
+E:\DeveloperTest\GitHub\Study.NET\Worker\obj\Debug\netcoreapp3.1\Worker.AssemblyInfo.cs
+E:\DeveloperTest\GitHub\Study.NET\Worker\obj\Debug\netcoreapp3.1\Worker.csproj.CoreCompileInputs.cache
